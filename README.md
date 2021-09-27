@@ -1,6 +1,6 @@
 # SixtyFPS Rust Template
 
-A template for a Rust application that's using SixtyFPS for the user interface.
+A template for a Rust application that's using [SixtyFPS](https://sixtyfps.io) for the user interface.
 
 ## About
 
