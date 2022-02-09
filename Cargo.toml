@@ -8,7 +8,7 @@ build = "build.rs"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-sixtyfps = "0.1"
+slint = "0.2"
 
 [build-dependencies]
-sixtyfps-build = "0.1"
+slint-build = "0.2"
