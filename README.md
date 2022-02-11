@@ -35,4 +35,4 @@ We recommend using an IDE for development, along with our [LSP-based IDE integra
 ## Next Steps
 
 We hope that this template helps you get started and you enjoy exploring making user interfaces with Slint. To learn more
-about the Slint APIs and the `.slint` markup language check out our [online documentation](https://slint-ui/docs/rust/slint/).
+about the Slint APIs and the `.slint` markup language check out our [online documentation](https://slint-ui.com/docs/rust/slint/).
