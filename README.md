@@ -18,7 +18,7 @@ Rust code, how to trigger react to callbacks, get and set properties and use bas
     ```
 3. Set up a sample project with this template
     ```
-    cargo generate --git slint-ui/slint-rust-template --name my-project
+    cargo generate --git https://github.com/slint-ui/slint-rust-template --name my-project
     cd my-project
     ```
 3. Build with cargo
