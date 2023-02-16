@@ -1,7 +1,7 @@
 slint::include_modules!();
 
-fn main() {
-    let ui = AppWindow::new();
+fn main() -> Result<(), slint::PlatformError> {
+    let ui = AppWindow::new()?;
 
     let ui_handle = ui.as_weak();
     ui.on_request_increase_value(move || {
@@ -9,5 +9,5 @@ fn main() {
         ui.set_counter(ui.get_counter() + 1);
     });
 
-    ui.run();
+    ui.run()
 }
