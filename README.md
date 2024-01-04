@@ -1,6 +1,6 @@
 # Slint Rust Template
 
-A template for a Rust application that's using [Slint](https://slint-ui.com) for the user interface.
+A template for a Rust application that's using [Slint](https://slint.rs) for the user interface.
 
 ## About
 
@@ -35,4 +35,6 @@ We recommend using an IDE for development, along with our [LSP-based IDE integra
 ## Next Steps
 
 We hope that this template helps you get started and you enjoy exploring making user interfaces with Slint. To learn more
-about the Slint APIs and the `.slint` markup language check out our [online documentation](https://slint-ui.com/docs/rust/slint/).
+about the Slint APIs and the `.slint` markup language check out our [online documentation](https://slint.dev/docs).
+
+Don't forget to edit this README to replace it by yours
