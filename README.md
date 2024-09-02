@@ -1,6 +1,6 @@
 # Slint Rust Template
 
-A template for a Rust application that's using [Slint](https://slint.dev/) for the user interface.
+A template for a Rust application that's using [Slint](https://slint.rs/) for the user interface.
 
 ## About
 
