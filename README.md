@@ -12,16 +12,17 @@ Rust code, how to react to callbacks, get and set properties, and use basic widg
 
 1. Install Rust by following its [getting-started guide](https://www.rust-lang.org/learn/get-started).
    Once this is done, you should have the `rustc` compiler and the `cargo` build system installed in your `PATH`.
-2. Clone or download this repository:
+2. Download and extract the [ZIP archive of this repository](https://github.com/slint-ui/slint-rust-template/archive/refs/heads/main.zip).
+3. Rename the extracted directory and change into it:
     ```
-    git clone https://github.com/slint-ui/slint-rust-template my-project
+    mv slint-rust-template-main my-project
     cd my-project    
     ```
-3. Build with `cargo`:
+4. Build with `cargo`:
     ```
     cargo build
     ```
-4. Run the application binary:
+5. Run the application binary:
     ```
     cargo run
     ```
