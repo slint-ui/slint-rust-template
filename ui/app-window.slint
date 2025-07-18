@@ -4,6 +4,7 @@ export component AppWindow inherits Window {
     in-out property <int> counter: 42;
     callback request-increase-value();
     VerticalBox {
+        alignment: start;
         Text {
             text: "Counter: \{root.counter}";
         }
