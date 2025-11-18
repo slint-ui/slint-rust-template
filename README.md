@@ -9,6 +9,22 @@ for the user interface. It demonstrates the integration between the `.slint` UI 
 Rust code, how to react to callbacks, get and set properties, and use basic widgets.
 
 ## Usage
+1. Install [Rust](https://rust-lang.org/learn/get-started/) and [Cargo Generate](https://github.com/cargo-generate/cargo-generate)
+2. Use this template using `cargo generate`
+   ```
+   cargo generate --name my-project --git https://github.com/slint-ui/slint-rust-template
+   cd my-project
+   ```
+4. Build with `cargo`:
+   ```
+   cargo build
+   ```
+5. Run the application binary:
+   ```
+   cargo run
+   ```
+
+## Usage (manual)
 
 1. Install Rust by following its [getting-started guide](https://www.rust-lang.org/learn/get-started).
    Once this is done, you should have the `rustc` compiler and the `cargo` build system installed in your `PATH`.
