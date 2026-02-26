@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/KDABLabs/slint-pre-commit-hooks
+    rev: v1.15.0
+    hooks:
+      - id: slint-format
